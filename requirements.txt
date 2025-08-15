@@ -1,8 +1,0 @@
-streamlit==1.36.0
-langchain==0.2.11
-langchain-core==0.2.23
-langchain-community==0.2.10
-langchain-google-genai==2.0.5
-google-genai==0.6.0
-protobuf<4
-setuptools
